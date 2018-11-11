@@ -11,5 +11,3 @@ install:
 after_success:
   - coveralls
 
-cache:
-  pip
